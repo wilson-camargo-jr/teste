@@ -23,7 +23,7 @@ description: Artigos e Ensaios sobre Data Science!
 
 # List of links in the navigation bar
 navbar-links:
-  Sobre: "www.google.com"
+  Sobre: "http://www.google.com"
   Recursos:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
