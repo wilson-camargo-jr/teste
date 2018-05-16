@@ -4,4 +4,4 @@ title: About me
 subtitle: Site Under Construction
 ---
 
-### my history
+### My history.
