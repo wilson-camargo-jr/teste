@@ -3,4 +3,7 @@ layout: post
 title: Breve ensaio sobre Regressão Logística
 ---
 
-https://github.com/wilson-camargo-jr/EnsaioSobreRLog/blob/master/logistic_regression.html
+Nesse ensaio usei o R Studio com o RMarkdow para um ensaio sobre Previsão de Churn em companhia telefonica.
+
+
+![Ensaio:](https://github.com/wilson-camargo-jr/EnsaioSobreRLog/blob/master/logistic_regression.html)
