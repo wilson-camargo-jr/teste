@@ -2,5 +2,5 @@
 layout: page
 title: Projetos
 subtitle: Em Construção
-use-site-title: true
+use-site-title: false
 ---
