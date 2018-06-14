@@ -23,10 +23,11 @@ description: Artigos e Ensaios sobre Data Science!
 
 # List of links in the navigation bar
 navbar-links:
-  Sobre: "http://www.google.com"
-  Recursos:
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  Home: ""
+  Projetos: "https://wilson-camargo-jr.github.io/Projetos"
+  #Recursos:
+  #  - Learn markdown: "http://www.markdowntutorial.com/"
+  #  - GitHub Pages: "https://pages.github.com/"
 #  Author's home: "https://pages.github.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -70,7 +71,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "camargow@gmail.com"
 #  facebook: camargow@gmail.com
   github: wilson-camargo-jr
