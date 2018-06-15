@@ -13,4 +13,4 @@ Apesar de bem simples, pode funcionar como um guia de orientação para análise
 
 <a href="http://htmlpreview.github.com/?https://github.com/wilson-camargo-jr/EnsaioSobreRLog/blob/master/logistic_regression.html" target="_blank"><img src="https://wilson-camargo-jr.github.io/img/RL.jpg" alt="Veja o Ensaio aqui!!!"></a>
 
-O **código** e o **dataset** usados podem ser encontrados em **https://github.com/wilson-camargo-jr/EnsaioSobreRLog**
+<a href="https://github.com/wilson-camargo-jr/EnsaioSobreRLog" target="_blank">O **código** e o **dataset** usados podem ser encontrados em: https://github.com/wilson-camargo-jr/EnsaioSobreRLog</a>
