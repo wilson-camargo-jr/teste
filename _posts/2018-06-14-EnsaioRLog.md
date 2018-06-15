@@ -10,3 +10,6 @@ O ensaio apresenta tabs para Área de Dados, Modelagem, Análise, Métricas de A
 O código e o dataset usados podem ser encontrados em https://github.com/wilson-camargo-jr/EnsaioSobreRLog
 
 <a href="http://htmlpreview.github.com/?https://github.com/wilson-camargo-jr/EnsaioSobreRLog/blob/master/logistic_regression.html" target="_blank">Veja o Ensaio aqui!!!</a>
+
+<a href="http://htmlpreview.github.com/?https://github.com/wilson-camargo-jr/EnsaioSobreRLog/blob/master/logistic_regression.html" target="_blank">img src="rl.jpeg" alt="Veja o Ensaio aqui!!!"</a>
+
