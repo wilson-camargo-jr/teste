@@ -1,5 +1,9 @@
 ---
+layout: post
+title: Oracle R Enterprise e Keras  ANN “From the scratch”
+subtitle: Nesse artigo vamos mostrar como implementar um Processo Analítico de aprendizagem de máquina chamado Artificial Neural Network (ANN) ou no bom português Redes Neurais Artificiais (RNA), utilizando o Oracle R Enterprise – ORE e a bibliotecas Keras.
 ---
+
 Oracle R Enterprise e Keras  ANN “From the scratch”
 
 Nesse artigo vamos mostrar como implementar um Processo Analítico de aprendizagem de máquina chamado Artificial Neural Network (ANN) ou no bom português Redes Neurais Artificiais (RNA), utilizando o Oracle R Enterprise – ORE e a bibliotecas Keras.
