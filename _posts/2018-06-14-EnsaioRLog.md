@@ -3,7 +3,7 @@ layout: post
 title: Breve ensaio sobre Regressão Logística
 ---
 
-Neste ensaio usei o R Studio com o R Markdown para simular a previsão de Churn em Companhia Telefonica. O algoritimo escolhido foi a Regressão Logística e o output html. 
+Neste ensaio usamos o R Studio com o R Markdown para simular a previsão de Churn em Companhia Telefonica. O algoritimo escolhido foi a Regressão Logística e o output html. 
 
 O ensaio apresenta tabs para Área de Dados, Modelagem, Análise, Métricas de Avaliação e Previsão. 
 
