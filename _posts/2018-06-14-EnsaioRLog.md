@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Breve ensaio sobre Regressão Logística
+subtitle: Primeiros experimentos com R Markdown
 ---
 
-Neste ensaio usamos o R Studio com o R Markdown para simular a previsão de Churn em Companhia Telefonica. O algoritimo escolhido foi a Regressão Logística e o output html. 
+Neste ensaio usamos o R Studio e o R Markdown para simular a previsão de "Churn" em Companhia Telefônica. O algoritimo escolhido foi a Regressão Logística e para facilitar a apresentação final o output em formato html. 
 
 O ensaio apresenta tabs para Área de Dados, Modelagem, Análise, Métricas de Avaliação e Previsão. 
 
-Apesar de bem simples, pode funcionar como um guia de orientação para análises semelhantes.
+Apesar de bem simples, este exemplo pode funcionar como um guia de orientação para análises semelhantes.
 
 <a href="http://htmlpreview.github.com/?https://github.com/wilson-camargo-jr/EnsaioSobreRLog/blob/master/logistic_regression.html" target="_blank">Veja o Ensaio aqui!!!</a>
 
